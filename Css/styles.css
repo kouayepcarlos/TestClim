@@ -220,7 +220,7 @@ body {
 }
 
 footer {
-    background-color: #000f32;
+    background-color: #212121;
     color: white;
     padding: 20px 0;
     font-family: Arial, sans-serif;
@@ -244,7 +244,7 @@ footer {
 }
 
 .footer-links ul li a {
-    color: #fff;
+    color: #afaaaa;;
     text-decoration: none;
 }
 
@@ -259,7 +259,7 @@ footer {
 }
 
 .footer-social a {
-    color: #fff;
+    color: #afaaaa;
     text-decoration: none;
     margin-left: 15px;
 }
